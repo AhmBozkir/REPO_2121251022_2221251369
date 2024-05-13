@@ -1,2 +1,2 @@
-class repos{
+class reposs{
 }
