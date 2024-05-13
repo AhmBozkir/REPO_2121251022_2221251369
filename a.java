@@ -1,3 +1,3 @@
-class repos{
-  ınt ı;
-}
+
+
+class B{}
