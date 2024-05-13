@@ -1,2 +1,3 @@
 class repos{
+  ınt ı;
 }
